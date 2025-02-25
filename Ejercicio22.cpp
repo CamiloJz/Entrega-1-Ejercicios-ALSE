@@ -1,15 +1,17 @@
 using namespace std;
 #include <iostream>
-#include <array>
+#include <array>    
 #include <vector>
 #include <cmath>
 
 int main()
 {
-    int a = 0, b=0;
-    if 
-
-
+    int a = 0;
+    cout << "Ingrese su numero hola";
+    cin >> a;
+    if (a > 0){
+        cout << "Su numero es positivo" << endl;
+    }
 
 return 0;        
 }
