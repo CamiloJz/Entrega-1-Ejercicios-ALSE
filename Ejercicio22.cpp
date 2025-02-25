@@ -10,6 +10,7 @@ int main()
     cout << "Ingrese su numero hola";
     cin >> a;
     if (a > 0){
+        
         cout << "Su numero es positivo" << endl;
     }
 
