@@ -1,6 +1,9 @@
 using namespace std;
 #include <iostream>
 #include <cmath>
+/*El ejercicio si bien es una operación, permite abordar nuevos tipo de variable, además de una
+libreria matemática para la potencia, además exploramos el hecho de pedir por consola varias entradas 
+al tiempo para después manipularlas*/
 
 int main(){
     int n = 0, t = 0;
