@@ -1,8 +1,5 @@
 using namespace std;
 #include <iostream>
-#include <array>    
-#include <vector>
-#include <cmath>
 
 int main()
 {
